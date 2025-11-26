@@ -11,8 +11,8 @@
 
 ## 🌙 Sobre mim
 - 🔭 Visite meu <a target="_blank" href="https://pjlkaw.github.io/Pedro_Bispo/">portfólio</a>
-- 🌱 Aprendendo: JavaScript / Node / Python
-- 💡 Curto criar interfaces limpas e funcionais
+- 🌱 Aprendendo: JavaScript / Node / TailWind
+- 💡 Estudando e aplicando
 - ⚡ Fun fact: Copiar e colar código de IA não é comigo!
 
 ---
@@ -26,7 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
   
   <!-- Front-End -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
 
