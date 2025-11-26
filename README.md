@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pjlkaw&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pjlkaw&show_icons=true&theme=dracula"/>
+<img src="https://readme-stats.clckblog.space/api?username=pjlkaw&show_icons=true&theme=dracula">
+<img src="https://readme-stats.clckblog.space/api/top-langs/?username=pjlkaw&layout=compact&theme=dracula">
 </div>
 
 
