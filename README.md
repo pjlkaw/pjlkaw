@@ -11,9 +11,8 @@
 
 ## 🌙 Sobre mim
 -  Visite meu <a target="_blank" href="https://pjlkaw.github.io/Pedro_Bispo/">portfólio</a>
-- Aprendendo: JavaScript / Node / TailWind
-- Estudando e aplicando
-- Fun fact: Copiar e colar código de IA não é comigo!
+- Aprendendo: JavaScript / React / TailWind
+- Copiar e colar código de IA não é comigo!
 
 ---
 
@@ -29,10 +28,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="55" />
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="55"/>
 
   <!-- Back-End -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="55"/>
 
   <!-- Ferramentas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
