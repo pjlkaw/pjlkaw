@@ -1,6 +1,6 @@
 <!-- DARK MODE README PARA pjlkaw -->
 
-<h1 align="center" style="color:#fff;">👋 Olá — eu sou o <strong>Pedro Bispo</strong></h1>
+<h1 align="center" style="color:#fff;"><strong>Pedro Bispo</strong></h1>
 
 <p align="center" style="color:#aaa;">
   Desenvolvedor focado em Front-End, JavaScript, Python, Git e Web Dev.<br>
@@ -10,10 +10,10 @@
 ---
 
 ## 🌙 Sobre mim
-- 🔭 Visite meu <a target="_blank" href="https://pjlkaw.github.io/Pedro_Bispo/">portfólio</a>
-- 🌱 Aprendendo: JavaScript / Node / TailWind
-- 💡 Estudando e aplicando
-- ⚡ Fun fact: Copiar e colar código de IA não é comigo!
+-  Visite meu <a target="_blank" href="https://pjlkaw.github.io/Pedro_Bispo/">portfólio</a>
+- Aprendendo: JavaScript / Node / TailWind
+- Estudando e aplicando
+- Fun fact: Copiar e colar código de IA não é comigo!
 
 ---
 
@@ -28,6 +28,8 @@
   <!-- Front-End -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="55" />
+          
 
   <!-- Back-End -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
