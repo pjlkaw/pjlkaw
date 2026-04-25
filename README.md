@@ -1,45 +1,50 @@
-<!-- DARK MODE README PARA pjlkaw -->
+<h1 align="center"><strong>Pedro Bispo</strong></h1>
 
-<h1 align="center" style="color:#fff;"><strong>Pedro Bispo</strong></h1>
+<p align="center">
+  Desenvolvedor focado em <strong>Front-End</strong> 🚀<br>
+  HTML, CSS, JavaScript, Python e criação de interfaces modernas.<br>
+  Em evolução para me tornar um <strong>Full-Stack Developer</strong>.
+</p>
 
-<p align="center" style="color:#aaa;">
-  Desenvolvedor focado em Front-End, JavaScript, Python, Git e Web Dev.<br>
-  Em busca de ser um futuro Full-Stack.
+<p align="center">
+  <a href="https://pjlkaw.github.io/Pedro_Bispo/" target="_blank">
+    🔗 Acesse meu Portfólio
+  </a>
 </p>
 
 ---
 
 ## 🌙 Sobre mim
--  Visite meu <a target="_blank" href="https://pjlkaw.github.io/Pedro_Bispo/">portfólio</a>
-- Aprendendo: JavaScript / React / TailWind
-- Copiar e colar código de IA não é comigo!
+- Focado em desenvolvimento web e experiência do usuário  
+- Atualmente aprendendo: Node.js, CLI, servidores 
+- Sempre buscando evoluir na prática com projetos reais  
+- Código limpo e aprendizado de verdade (sem depender de cópia)
 
 ---
 
-# 🛠 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
-<div style="display:flex; gap:20px; flex-wrap:wrap; align-items:center;">
+<div align="center">
 
-  <!-- Linguagens -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
-  
-  <!-- Front-End -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="55"/>
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="55"/>
+### Linguagens
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
 
-  <!-- Back-End -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="55"/>
+### Front-End
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55"/>
 
-  <!-- Ferramentas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
+### Back-End / Dados
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
+
+### Ferramentas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
 
 </div>
 
 ---
 
-<h3 align="center" style="color:#888;">✨ Obrigado por visitar meu perfil ✨</h3>
+<h3 align="center">✨ Obrigado por visitar meu perfil ✨</h3>
